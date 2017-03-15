@@ -1,0 +1,19 @@
+{
+  "name": "d3-pinch-zoom",
+  "version": "1.0.0",
+  "description": "pinch to zoom for d3 Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antimatter15/d3-pinch-zoom.git"
+  },
+  "author": "antimatter15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antimatter15/d3-pinch-zoom/issues"
+  },
+  "homepage": "https://github.com/antimatter15/d3-pinch-zoom#readme"
+}
